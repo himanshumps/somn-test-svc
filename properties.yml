@@ -1,0 +1,5 @@
+APP_NAME: somndeveloper35640
+MS_NAME: somn-test-svc
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/somn-test-svc.git
+SONAR_HOST_URL: http://sonar-somndeveloper35640-cicd.52.172.12.252.nip.io
